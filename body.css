@@ -1,0 +1,23 @@
+#body {
+	background-color: black;
+	color: white;
+	font-family: verdana;
+	padding: 20px;
+	text-align: left;
+	
+
+
+}
+
+
+div.transbox{
+
+	/*width:400px;
+	height:180px;*/
+	margin:30px 8px 5px;
+	border-radius: 2em 2em 2em 2em;
+	background-color:#ffffff;
+	border:1px solid black;
+	opacity:0.88;
+	filter:alpha(opacity=60); /* IE8 and earliest*/
+}

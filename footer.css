@@ -1,0 +1,12 @@
+#footer {
+	background-color: #407acc;
+	background-image: url('del.gif');
+	
+	color: white;
+	font-weight: bold;
+	font-family: verdana;
+	padding: 10px;
+	text-align: right;
+	font-size: 70%;
+
+}
